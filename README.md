@@ -1,4 +1,4 @@
-# Email - send emails
+# Email delivery - send emails
 PHP libray to send emails to several recipients
 
 ## Getting started
