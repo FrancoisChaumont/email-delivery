@@ -1,5 +1,7 @@
 <?php
 
+namespace FC;
+
 /**
  * USAGE: 
  *      Instantiate a new object

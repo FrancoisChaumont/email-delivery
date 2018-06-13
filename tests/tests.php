@@ -1,8 +1,12 @@
 <?php
 
+namespace FC;
+
+use FC\Email;
+
 header('Content-type: text/html; charset=UTF-8');
 
-require_once "email.php";
+require __DIR__ . "/../vendor/autoload.php";
 
 $email = new Email();
 $email->setFrom("from_email_address", "from_name");
