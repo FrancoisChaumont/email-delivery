@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Email - send emails
 
 ![GitHub release](https://img.shields.io/github/release/FrancoisChaumont/email-delivery.svg)
@@ -6,6 +7,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/FrancoisChaumont/email-delivery.svg)](https://github.com/FrancoisChaumont/email-delivery/stargazers)
 ![Github All Releases](https://img.shields.io/github/downloads/FrancoisChaumont/email-delivery/total.svg)
 
+=======
+# Email delivery - send emails
+>>>>>>> eb071fb1d6c89e690caf5f8f5789ce3c2870b126
 PHP libray to send emails to several recipients
 
 ## Getting started
