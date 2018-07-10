@@ -12,11 +12,22 @@ PHP libray to send emails to several recipients
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Requirements
-PHP 7.0+ | a mail server
+PHP 7.1+ | a mail server
 
 ### Installation
-Just include the library and you are ready to go.  
-(considering you have a mail server available and configured)
+Install this package with composer by simply adding the following to your composer.json file:  
+```
+"repositories": [
+    {
+        "url": "https://github.com/FrancoisChaumont/email-delivery.git",
+        "type": "git"
+    }
+]
+```
+and running the following command:  
+```
+composer require francoischaumont/email-delivery
+```
 
 ## Testing
 Under the folder named *tests* you will find a test script ready to use.  
