@@ -1,6 +1,6 @@
 <?php
 
-namespace FC;
+namespace FC\Email;
 
 /**
  * USAGE: 

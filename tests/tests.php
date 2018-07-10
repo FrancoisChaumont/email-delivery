@@ -1,8 +1,6 @@
 <?php
 
-namespace FC;
-
-use FC\Email;
+namespace FC\Email;
 
 header('Content-type: text/html; charset=UTF-8');
 
